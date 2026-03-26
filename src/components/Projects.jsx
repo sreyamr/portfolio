@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const projects = [
   {
     title: "Cravia – Self Ordering System",
-    image: "/public/cravia.png",
+    image: "/portfolio/cravia.png",
     live: "https://m8-organization.github.io/m8craviamobile-kiosk/",
     desc: [
       "Flutter-based self ordering app",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
   title: "Cravia KDS – Kitchen Display System (Web & Tablet)",
-  image: "/public/kds.png",
+  image: "/portfolio/kds.png",
    live: "https://craviakds.m8talents.in/",
   desc: [
     "Developed a Kitchen Display System using Flutter to manage food orders in real time",
@@ -26,7 +26,7 @@ const projects = [
 },
  {
     title: "Mart-Mart – Meat Ordering & Delivery System",
-    image: "/public/mba.png",
+    image: "/portfolio/mba.png",
     live: "https://play.google.com/store/apps/details?id=com.mbamart.customer&hl=en_IN",
     desc: [
       "Developed a multi-app system using Flutter (Customer, Vendor, Delivery, Admin)",
@@ -38,7 +38,7 @@ const projects = [
   },
     {
     title: "Tirupur Job Hub – Job Search",
-    image: "/public/job.png",
+    image: "/portfolio/job.png",
     live: "https://play.google.com/store/apps/details?id=com.ask.candidate&hl=en_IN",
 desc: [
   "Job search app for local opportunities in Tirupur",
@@ -50,7 +50,7 @@ desc: [
   },
     {
     title: "Tirupur Job Hub – Recruiter App",
-    image: "/public/recu.png",
+    image: "/portfolio/recu.png",
     live: "https://play.google.com/store/apps/details?id=com.ask.recruiter&hl=en_IN",
 desc: [
   "Recruiter app for managing hiring processes",
@@ -63,7 +63,7 @@ desc: [
   },
   {
     title: "HRMS – Human Resource Management System",
-    image: "/public/hrms.png",
+    image: "/portfolio/hrms.png",
     desc: [
       "Developed a Flutter-based HRMS application for employee management",
       "Implemented attendance tracking and leave management modules",
@@ -74,7 +74,7 @@ desc: [
   },
     {
     title: "Prabodhanam – Subscription Management System (Halqa / Agency)",
-    image: "/public/prabo.png",
+    image: "/portfolio/prabo.png",
     live: "https://play.google.com/store/apps/details?id=com.infobreez.prabodhanam&hl=en_IN",
    desc: [
   "Subscription management system for Halqa and agencies",
@@ -88,7 +88,7 @@ desc: [
   },
     {
     title: "BusiMate MX – Business Analytics & ERP Companion App",
-    image: "/public/mx.png",
+    image: "/portfolio/mx.png",
     live: "https://play.google.com/store/apps/details?id=com.infobreez.busimatemx&hl=en_IN",
 desc: [
   "ERP companion app for business insights and reporting",
